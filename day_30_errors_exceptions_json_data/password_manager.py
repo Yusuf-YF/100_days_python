@@ -90,19 +90,16 @@ def find_password():
 
 
 # --------------------- UI SETUP --------------------- #
-# WINDOW.
 window = Tk()
 window.title("Password Manager")
 window.config(padx=20, pady=20, bg=BG_COLOR)
 
-# CANVAS.
 canvas = Canvas(height=200, width=200, bg=BG_COLOR, highlightthickness=0)
 canvas.pack()
 logo = PhotoImage(file="logo.png")
 canvas.create_image(85, 95, image=logo)
 canvas.grid(column=1, row=0)
 
-# LABELS.
 website_label = Label(text="Website:", bg=BG_COLOR)
 website_label.grid(column=0, row=1)
 email_label = Label(text="Email/Username:", bg=BG_COLOR)
@@ -112,7 +109,6 @@ password_label.grid(column=0, row=3)
 copy_mark = Label(fg=GREEN, bg=BG_COLOR, font=(FONT_NAME, 20, "bold"))
 copy_mark.grid(column=1, row=5)
 
-# ENTRIES
 website_entry = Entry(width=32)
 website_entry.focus()
 website_entry.grid(column=1, row=1)
