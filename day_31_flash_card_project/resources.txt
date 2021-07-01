@@ -1,0 +1,10 @@
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
+https://www.google.co.uk/sheets/about/
+https://www.opensubtitles.org/en/search/subs
+https://support.google.com/docs/answer/3093331?hl=en-GB
+https://cloud.google.com/translate/docs/languages?hl=en
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_dict.html
+https://tcl.tk/man/tcl8.6/TclCmd/after.htm
+https://stackoverflow.com/questions/41030973/how-can-i-change-the-color-of-text-in-tkinter
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_csv.html
+https://www.w3schools.com/python/ref_list_remove.asp
